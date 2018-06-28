@@ -1,3 +1,5 @@
+# This project has been migrated into https://github.com/metaspace2020/metaspace
+
 ## Minimal metadata for imaging mass spectrometry
 
 This repository contains information about the minimal metadata for imaging mass spectrometry (imaging MS) as developed in the METASPACE project. In particular, the metadata is required to provide during the [upload of the imaging MS data to METASPACE](http://upload.metaspace2020.eu/).
